@@ -4,12 +4,13 @@
     height: 50%;
     color: #333333;
     text-align: center;
-    margin: 0 auto;
+    margin: auto;
     overflow: hidden;
-    padding: 100px 0;
     align-items: center;
     justify-content: space-around;
     display: flex;
     float: none;
-    /* ford */
+    padding-top: 40px;
+    padding-bottom: 40px;
+    /* ford2 */
 }
